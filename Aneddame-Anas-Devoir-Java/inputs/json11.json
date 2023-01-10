@@ -1,0 +1,17 @@
+[
+  {
+    "id":8,
+    "nom": "Product 8",
+    "prix": 94.704
+  },
+  {
+    "id":9,
+    "nom": "Product 9",
+    "prix": 69.0
+  },
+  {
+    "id":5,
+    "nom": "Product 5",
+    "prix": 45.0
+  }
+]
